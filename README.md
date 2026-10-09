@@ -2,15 +2,15 @@
 ## Contact and Basic Information
 
 ### Useful Links
-[Google Colab - ZDO Exercise Signpost](https://colab.research.google.com/drive/1Dr5-2dM1CSpyKQAHi7Xjrtql-o8CLN0V#scrollTo=PS_mq6cn3X31)  
-[Google Classroom and Your Points](https://classroom.google.com/c/MjE5OTE1NzYwMjBa/p/MjIwMzI0ODI4NDNa/details)  
+<!-- [Google Colab - ZDO Exercise Signpost](https://colab.research.google.com/drive/1Dr5-2dM1CSpyKQAHi7Xjrtql-o8CLN0V#scrollTo=PS_mq6cn3X31)  -->
+[Google Classroom and Your Points](https://classroom.google.com/c/MjU0NDMxNjI2NjNa/p/ODkwMTM3MDc3MTg3/details)  
 <!-- [Semestral Work Assignment & Data](https://classroom.google.com/c/MjM1NDMxMzkxODZa/p/MjM1NjkyNjE2MDNa/details) -->
 
 ### Contact
 **Instructor:** Jiří Vyskočil  
 **Office:** UN-561 (Available on Tuesdays and Fridays)  
 _**Note:** It is strongly recommended to arrange a meeting in advance._  
-**Email:** [vyskocj@kky.zcu.cz](mailto:vyskocj@kky.zcu.cz)  
+**Email:** [vyskocj@fav.zcu.cz](mailto:vyskocj@fav.zcu.cz)  
 
 ## Requirements for Course Credit
 
